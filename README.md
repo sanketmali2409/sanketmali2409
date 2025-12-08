@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?\</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sanket Mali and I'm an Embedded Systems, IoT, Robotics & Power Electronics Developer from India.</p>
 
 ###
 
@@ -10,37 +10,89 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+🔧 Working with microcontrollers, sensors & power circuits since 2021<br>
+📚 I'm currently learning: ROS, SLAM, YOLO, Robotics Algorithms, Power Converters<br>
+🎯 Goals: Build autonomous robots & smart power-electronic systems<br>
+⚡ Fun fact: I enjoy debugging circuits more than running them!
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
+
+###
+
+<h2 align="left">Embedded Tools & Boards</h2>
+
+###
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP8266-05998b?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIC%20Microcontroller-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/8051%20Microcontroller-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIM800L-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPS%20Module-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ultrasonic%20Sensor-gray?style=for-the-badge" />
+</div>
+
+###
+
+<h2 align="left">Power Electronics</h2>
+
+###
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/SMPS%20Design-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DC--DC%20Converters-8a2be2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MOSFET%20Drivers-ff4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inverters%20&%20Rectifiers-32cd32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Sensors%20&%20Protection-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCB%20Design%20(KiCad%20%7C%20Eagle)-ff1493?style=for-the-badge" />
+
+</div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketmali2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sanketmali2409&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketmali2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+
+  <img src="https://streak-stats.demolab.com?user=sanketmali2409&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
+</div>
