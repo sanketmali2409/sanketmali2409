@@ -79,3 +79,23 @@
   <img src="https://streak-stats.demolab.com?user=sanketmali2409&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
 </div>
+
+###
+
+<h2 align="left">🔥 Daily Contribution Graph</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmali2409&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+###
+
+<h2 align="left">🐍 Contribution Snake</h2>
+
+###
+
+<div align="center">
+  <img src="https://github.com/sanketmali2409/sanketmali2409/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
