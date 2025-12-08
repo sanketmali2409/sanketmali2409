@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Contribution
 
 on:
   schedule:
@@ -9,13 +9,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v3
+      - uses: platane/snk@v3
+        id: snake
         with:
           github_user_name: sanketmali2409
           outputs: dist/github-contribution-grid-snake.svg
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
+      - name: Push Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
