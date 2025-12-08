@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sanket Mali and I'm an Embedded Systems, IoT, Robotics & Power Electronics Developer from India.</p>
+<p align="left">My name is Sanket Mali and I'm an Embedded Systems & IoT Developer from India.</p>
 
 ###
 
@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-🔧 Working with microcontrollers, sensors & power circuits since 2021<br>
-📚 I'm currently learning: ROS, SLAM, YOLO, Robotics Algorithms, Power Converters<br>
-🎯 Goals: Build autonomous robots & smart power-electronic systems<br>
-⚡ Fun fact: I enjoy debugging circuits more than running them!
+🔧 Working with microcontrollers & real-time systems since 2021<br>
+📚 I'm currently learning: ROS, SLAM, YOLO, Robotics Algorithms<br>
+🎯 Goals: Build autonomous robots & real-world embedded projects<br>
+🤖 Fun fact: I love turning random sensors & boards into useful robots!
 </p>
 
 ###
@@ -64,23 +64,6 @@
   <img src="https://img.shields.io/badge/SIM800L-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPS%20Module-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ultrasonic%20Sensor-gray?style=for-the-badge" />
-</div>
-
-###
-
-<h2 align="left">Power Electronics</h2>
-
-###
-
-<div align="left">
-
-  <img src="https://img.shields.io/badge/SMPS%20Design-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DC--DC%20Converters-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MOSFET%20Drivers-ff4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inverters%20&%20Rectifiers-32cd32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20Sensors%20&%20Protection-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCB%20Design%20(KiCad%20%7C%20Eagle)-ff1493?style=for-the-badge" />
-
 </div>
 
 ###
