@@ -1,357 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanket%20Mali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Robotics%20%7C%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanket%20Mali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%C2%B7%20Robotics%20%C2%B7%20Autonomous%20Navigation&descAlignY=55&descSize=17" width="100%" />
 
 <a href="https://github.com/sanketmali2409">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Embedded+%26+Robotic+Systems+%F0%9F%A4%96;C+%7C+C%2B%2B+%7C+Python+%7C+Embedded+Linux;ESP32+%7C+STM32+%7C+Raspberry+Pi+%7C+ARM;ROS+2+%7C+SLAM+%7C+Nav2+%7C+Computer+Vision;Sensors+%7C+Cameras+%7C+LiDAR+%7C+Real-Time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Firmware+that+ships+on+real+hardware;ROS+2+robots+that+navigate+without+a+human;Sensors%2C+timing%2C+and+the+bugs+in+between" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanketmali2409&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/sanketmali2409?label=Followers&style=for-the-badge&color=36BCF7" alt="followers" />
-<img src="https://img.shields.io/badge/India%20%F0%9F%87%AE%F0%9F%87%B3-36BCF7?style=for-the-badge" alt="location" />
-
-</div>
-
----
-
-<h2 align="left">🧑‍💻 About Me</h2>
-
-- 🔧 Embedded Systems & Robotics Engineer focused on **real-time embedded systems and autonomous robots**
-- 💻 Experienced with **C, C++, Python, microcontrollers, Embedded Linux and hardware interfaces**
-- 🤖 Working with **ROS 2, SLAM, Nav2, Gazebo, computer vision and autonomous navigation**
-- 📡 Experience with **ESP32, ESP-NOW, UART, I2C, SPI, CAN, USB and wireless communication**
-- 📷 Working with **stereo cameras, USB cameras, LiDAR, IMU and encoder-based sensing**
-- 🧠 Exploring **sensor fusion, path planning, computer vision and robot perception**
-- 🛠️ Interested in building reliable **embedded hardware + robotics systems**
-- 🎯 Goal: Build production-ready **autonomous robotic systems**
-
----
-
-<h2 align="left">💻 Programming Languages</h2>
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-<img width="12" />
+<a href="https://www.linkedin.com/in/sanket-mali-310469250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://sanketmali2409.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:raushan@xprobotics.ai"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-<h2 align="left">⚡ Embedded Systems</h2>
+## 👋 About
 
-<div align="left">
+I build the layer where **software meets moving hardware** — firmware on microcontrollers, Linux on SBCs, and ROS 2 stacks that turn sensor noise into navigation.
 
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP8266-05998B?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/ARM-Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
-<img src="https://img.shields.io/badge/PIC-Microcontroller-0052CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/8051-Microcontroller-E85D25?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LPC2148-ARM7-0091BD?style=for-the-badge" />
+- 🤖 Autonomous mobile robots: **SLAM, Nav2, sensor fusion, mecanum & differential drive**
+- ⚙️ Bare-metal and RTOS firmware on **ESP32, STM32, ARM Cortex-M**
+- 🐧 Embedded Linux on **Raspberry Pi 4/5, Jetson Nano, RK3588** — drivers, V4L2, Yocto images
+- 📷 Perception plumbing: **multi-camera capture, stereo depth, LiDAR, IMU, encoders**
+- 🕰️ The part nobody puts on a badge: **timestamp alignment, USB bandwidth budgets, and why the camera returns EBUSY**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Real--Time%20Systems-8E24AA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RTOS-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-
-</div>
+**Currently:** building production-grade autonomous cleaning robots and multi-sensor logging pipelines.
 
 ---
 
-<h2 align="left">🍓 SBCs & Embedded Linux</h2>
+## 🛠️ What I Work With
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45" alt="Raspberry Pi" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
-<img width="12" />
-
-<img src="https://img.shields.io/badge/Raspberry%20Pi%204-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/RK3588-SBC-203A43?style=for-the-badge" />
-
-</div>
-
----
-
-<h2 align="left">🤖 Robotics & ROS 2</h2>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS%202%20Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS%202%20Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/Nav2-1F4E79?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SLAM%20Toolbox-1565C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gazebo-FF6C37?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TF2-22314E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/robot__localization-1565C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Path%20Planning-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Autonomous%20Navigation-283593?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sensor%20Fusion-37474F?style=for-the-badge" />
-
-</div>
-
----
-
-<h2 align="left">📡 Sensors & Robot Perception</h2>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/LiDAR-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RPLiDAR-A1--M8-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/YDLiDAR-X2-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IMU-MPU6050-546E7A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Encoders-37474F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ultrasonic-US--100-546E7A?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Stereo%20Vision-1565C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Depth%20Estimation-283593?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Camera%20Calibration-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Object%20Detection-00A3E0?style=for-the-badge" />
-
-</div>
-
----
-
-<h2 align="left">👁️ Computer Vision & AI</h2>
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="OpenCV" />
-<img width="12" />
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-00A3E0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Image%20Processing-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Depth%20%26%20Disparity-1565C0?style=for-the-badge" />
-
-</div>
-
----
-
-<h2 align="left">📡 Communication & Interfaces</h2>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/UART-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/I2C-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SPI-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CAN-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/USB%202.0-37474F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wi--Fi-0077B5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESP--NOW-000000?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GSM-SIM800L-C62828?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GPS-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LoRa-1565C0?style=for-the-badge" />
-
-</div>
-
----
-
-<h2 align="left">💾 Robotics Data & Visualization</h2>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Foxglove-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCAP-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/rosbag2-22314E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Real--Time%20Data%20Logging-37474F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sensor%20Synchronization-1565C0?style=for-the-badge" />
-
-</div>
-
----
-
-<h2 align="left">🔧 Development Tools</h2>
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
-<img src="https://img.shields.io/badge/Keil-3949AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MPLAB-0052CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
-
-</div>
-
----
-
-<h2 align="left">🐧 Embedded Linux & Build Systems</h2>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Yocto%20Project-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenEmbedded-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BitBake-455A64?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Poky-37474F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/U--Boot-37474F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
+| Domain | Tools & Technologies |
+|---|---|
+| **Languages** | C · C++ (11/17) · Python · Bash |
+| **MCUs** | ESP32 · ESP8266 · STM32 · ARM Cortex-M · LPC2148 · PIC · 8051 |
+| **SBC / Linux** | Raspberry Pi 4 & 5 · Jetson Nano · RK3588 · Embedded Linux · Yocto / BitBake · U-Boot |
+| **Robotics** | ROS 2 (Humble, Jazzy) · Nav2 · SLAM Toolbox · TF2 · robot_localization · Gazebo · RViz |
+| **Perception** | OpenCV · YOLO · stereo depth · camera calibration · RPLiDAR A1M8 · YDLiDAR X2 · MPU6050 |
+| **Interfaces** | UART · I²C · SPI · CAN · USB 2.0 · BLE · Wi-Fi · ESP-NOW · LoRa · GSM · GPS |
+| **Data & Tooling** | MCAP · rosbag2 · Foxglove · Docker · Git · PlatformIO · KiCad · Keil · MPLAB |
 
 <div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=sanketmali2409&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sanketmali2409&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sanketmali2409&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-trophies.vercel.app/?username=sanketmali2409&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="38" alt="Raspberry Pi" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="38" alt="OpenCV" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
 </div>
 
 ---
 
-<h2 align="left">🔥 Contribution Graph</h2>
+## 🚀 Featured Work
 
-<div align="center">
+### 🧹 Autonomous Floor & Stair Cleaning Robot
+> Omnidirectional cleaning robot that maps an unknown floor and covers it without a driver.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmali2409&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+**Stack:** Raspberry Pi 5 + ESP32 · ROS 2 · Nav2 · SLAM Toolbox · RPLiDAR · MPU6050 · wheel encoders · mecanum drive
 
-</div>
-
----
-
-<h2 align="left">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanketmali2409/sanketmali2409/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanketmali2409/sanketmali2409/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sanketmali2409/sanketmali2409/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-### 🤖 Autonomous Floor & Stair Cleaning Robot
-
-Autonomous omnidirectional robot using:
-
-- Raspberry Pi 5
-- ESP32
-- ROS 2
-- Nav2
-- SLAM Toolbox
-- RPLiDAR
-- MPU6050 IMU
-- Wheel Encoders
-- Mecanum Drive
-- Autonomous Navigation
-- Sensor Fusion
+- Split the system: **ESP32 owns real-time motor control and encoder ticks**, the Pi owns mapping and planning — so a busy planner can never stall a motor loop.
+- Fused wheel odometry with IMU through `robot_localization` to stop the heading drift that kept breaking loop closure.
+- Tuned Nav2 costmaps and controllers for **holonomic motion**, where the usual differential-drive defaults simply don't apply.
 
 ### 📡 Distributed Sensor Synchronization
+> Many ESP32 nodes, one coherent timeline.
 
-Multi-ESP32 sensor data synchronization system using:
+**Stack:** ESP-NOW · UART/USB bridge · Python · MCAP · Foxglove
 
-- ESP-NOW
-- Timestamp synchronization
-- UART / USB
-- Python
-- MCAP
-- Foxglove
-- Real-time sensor logging
+- Built a **timestamp synchronization scheme over ESP-NOW** so samples from independent nodes land on a shared clock instead of arrival order.
+- Streams into **MCAP** for replay and inspection in Foxglove — logs you can actually debug after the run, not just during it.
+- Designed for continuous real-time logging without dropping frames under load.
 
 ### 👁️ Multi-Camera Robotic Perception
+> Stereo + wrist cameras on a single USB 2.0 tree, running together.
 
-Multi-camera system using:
+**Stack:** stereo camera · wrist cameras · USB 2.0 hub · MJPEG · OpenCV
 
-- Stereo Camera
-- Wrist Cameras
-- USB 2.0 Hub
-- MJPEG
-- OpenCV
-- Camera Synchronization
-- Depth / Spatial Perception
+- Worked inside the **USB 2.0 bandwidth ceiling** using MJPEG and per-camera resolution budgeting so all streams stay alive at once.
+- Calibrated and synchronized cameras for **depth and spatial perception** across viewpoints.
+- Solved the real-world failure modes: enumeration order, device busy conflicts, and per-frame timestamping.
 
 ---
 
-<h2 align="left">🌐 Connect With Me</h2>
+## 📊 GitHub Activity
 
-<div align="left">
+<div align="center">
 
-<a href="https://github.com/sanketmali2409">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sanketmali2409&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sanketmali2409&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=330" height="160" alt="Top Languages" />
 
-<a href="https://www.linkedin.com/in/sanket-mali-310469250">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br/><br/>
 
-<a href="https://sanketmali2409.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="mailto:raushan@xprobotics.ai">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmali2409&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
 
 </div>
+
+---
+
+## 🌱 Currently Exploring
+
+`Sensor fusion beyond EKF` · `Visual-inertial odometry` · `Real-time scheduling on embedded Linux` · `Yocto image hardening for field robots`
 
 ---
 
 <div align="center">
 
-<i>⚡ Building systems where hardware, software and robotics work together.</i>
+**Open to collaborating on robotics, embedded systems, and anything that has to work when nobody is watching it.**
+
+<a href="mailto:raushan@xprobotics.ai"><img src="https://img.shields.io/badge/Let's%20build%20something-36BCF7?style=for-the-badge&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
